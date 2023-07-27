@@ -9,4 +9,5 @@ body {
 
 .paragrafo-1 {
     color: var(--cinza);
+    font-size: 20px;
 }

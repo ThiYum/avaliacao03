@@ -1,7 +1,12 @@
 :root {
     --azul: #0000ff;
+    --cinza: #808080;
 }
 
 body {
-    
+
+}
+
+.paragrafo-1 {
+    color: var(--cinza);
 }

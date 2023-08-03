@@ -1,13 +1,20 @@
 :root {
     --azul: #0000ff;
     --cinza: #808080;
+    --verde-claro: #a7c9b4;
+    --verde-escuro: #635c2f;
+    --verde: #49ad28;
 }
 
 body {
+ background-color: var(--verde-claro);
+}
 
+.titulo-1 {
+    color: var(--verde);
 }
 
 .paragrafo-1 {
-    color: var(--cinza);
+    color: var(--verde-escuro);
     font-size: 20px;
 }

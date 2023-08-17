@@ -5,21 +5,30 @@
     --verde-escuro: #635c2f;
     --verde: #49ad28;
     --verde-floresta: #007100;
+    --amarelo: #f9e266;
 }
 
 body {
- background-color: var(--verde-claro);
+    background-color: var(--verde-claro);
 }
 
 header{
- background-color: var(--verde-floresta);
+    background-color: var(--verde-floresta);
+    color: var(--amarelo);
+    padding: 50px;
+    margin: -16px;
+    font-size: 70px;
+    text-align: left;
 }
 
 .titulo-1 {
-    color: var(--verde);
+    color: var(--verde-escuro);
+    text-align: center;
+    margin: 50px 50px 0px;
 }
 
 .paragrafo-1 {
     color: var(--verde-escuro);
     font-size: 20px;
+    text-align: center;
 }

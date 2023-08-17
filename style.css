@@ -1,13 +1,18 @@
 :root {
     --azul: #0000ff;
     --cinza: #808080;
-    --verde-claro: #a7c9b4;
+    --verde-claro: #DAEABB;
     --verde-escuro: #635c2f;
     --verde: #49ad28;
+    --verde-floresta: #007100;
 }
 
 body {
  background-color: var(--verde-claro);
+}
+
+header{
+ background-color: var(--verde-floresta);
 }
 
 .titulo-1 {

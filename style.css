@@ -14,6 +14,9 @@ body {
 
 header{
     background-color: var(--verde-floresta);
+}
+
+.titulo-header{
     color: var(--amarelo);
     padding: 50px;
     margin: -16px;

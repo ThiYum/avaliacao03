@@ -15,6 +15,7 @@
 
 body {
     background-color: var(--verde-claro);
+    display: flex;
 }
 
 header{
@@ -29,7 +30,7 @@ header{
 }
 
 .pessoas{
-    height: 300px
+    height: 300px;
 }
 
 .mao{

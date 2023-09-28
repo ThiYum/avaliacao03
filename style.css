@@ -15,7 +15,6 @@
 
 body {
     background-color: var(--verde-claro);
-    display: flex;
 }
 
 header{
@@ -27,6 +26,10 @@ header{
     text-align: center;
     justify-content: space-around;
     padding: 24px 330px 10px 400px;
+}
+
+.body2{
+    display:flex;
 }
 
 .pessoas{

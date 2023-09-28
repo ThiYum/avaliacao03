@@ -28,6 +28,10 @@ header{
     padding: 24px 330px 10px 400px;
 }
 
+.pessoas{
+    height: 300px
+}
+
 .mao{
     height: 130px;
     display: flex;

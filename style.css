@@ -18,11 +18,13 @@ header{
     padding: 1%;
     display:flex;
     color: var(--amarelo);
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
     justify-content: space-around;
-    padding: 24px 330px 10px 400px;
+    padding: 0px 0px 0px 00px;
+    margin: 0px;
 }
+
 
 .parte1{
     background-color: var(--verde-claro);
@@ -32,7 +34,7 @@ header{
 .pessoas{
     height: 300px;
 }
-
+ 
 .mao{
     height: 130px;
     display: flex;
@@ -43,15 +45,18 @@ header{
 
 .titulo-1 {
     color: var(--verde-escuro);
-    text-align: center;
+    text-align: left;
     margin: 20px 0px 15px 0px;
-    font-size: 30px;
+    font-size: 35px;
+    background-color: var(--verde-claro);
+    margin: 0px;
+    padding: 20px;
 }
 
 .paragrafo-1 {
     color: var(--verde-escuro);
     font-size: 25px;
-    text-align: justify;
-    padding: 0px 0px 0px 0px;
-}
-
+     text-align: justify;
+    padding: 0px 100px 0px 0px;
+    margin: 0px;
+ }

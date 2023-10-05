@@ -44,7 +44,7 @@ header{
 .titulo-1 {
     color: var(--verde-escuro);
     text-align: center;
-    margin: 20px 900px 15px 0px;
+    margin: 20px 0px 15px 0px;
     font-size: 30px;
 }
 
@@ -52,6 +52,6 @@ header{
     color: var(--verde-escuro);
     font-size: 25px;
     text-align: justify;
-    padding: 0px 600px 0px 30px;
+    padding: 0px 0px 0px 0px;
 }
 
